@@ -1,4 +1,4 @@
-# Composer template for Drupal projects
+# Composer template for Drupal projects.
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
 
@@ -9,7 +9,7 @@ If you want to know how to use it as replacement for
 [Drush Make](https://github.com/drush-ops/drush/blob/8.x/docs/make.md) visit
 the [Documentation on drupal.org](https://www.drupal.org/node/2471553).
 
-## Usage
+## Usage.
 
 First you need to [install composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
 
